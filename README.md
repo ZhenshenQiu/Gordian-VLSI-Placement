@@ -1,6 +1,9 @@
 # How to compile
 The UI is built on Winform, please create Winform project to compile my code.
 
+#Wiki
+https://github.com/ZhenshenQiu/Gordian-VLSI-Placement/wiki
+
 # Reference
 GORDIAN: VLSI Placement by Quadratic Programming and Slicing Optimization, 
 Jurgen M. Kleinhans, Georg Sigl, Frank M. Johannes, and Kurt J. Antreich, Senior Member, IEEE
